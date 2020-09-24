@@ -1,2 +1,2 @@
 # Alterland.net IRC network
-This website is made with React JS.
+This website is made with React JS and TypeScript.
